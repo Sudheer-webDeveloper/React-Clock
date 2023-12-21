@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(166, 166, 166);
+}
+
+h2{
+    background: red;
+    padding: 100px;
+    font-size: 5rem;
+    border-radius: 200px;
+    color: white;
+    background: black;
+}
